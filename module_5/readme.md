@@ -13,4 +13,4 @@
 
 Соревнование проводится на Kaggle https://www.kaggle.com/c/sf-dst-car-price-prediction/leaderboard
 Ник на Kaggle: Roman Razumovsky
-Результат на Public Leaderboard (MAPE): 13.16681
+Результат на Public Leaderboard (MAPE): 12.82498
